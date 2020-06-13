@@ -3,7 +3,7 @@
 
 뉴스 기사를 input 값으로 받아 성차별적인 내용이 포함된 기사인지 아닌지 분류하는 NLP 모델을 만들어 오분류를 줄이는 것입니다.
 
-
+ [articles.csv 다운 받기](https://misogynyx.s3.ap-northeast-2.amazonaws.com/done-it-again-ml/articles.csv)
 
 
 ## 여성 문제를 다루는 기사 기준 (논의 필요)
